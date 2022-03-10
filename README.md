@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mirzahab85
-- 👀 I’m interested in back-end development
-- 🌱 I’m currently learning PHP, Laravel
+- 👀 I’m interested in front-end and back-end development
+- 🌱 I’m currently learning PHP, Laravel, Angular
 - 💞️ I’m looking to collaborate on PHP
 - 📫 How to reach me ...
 
