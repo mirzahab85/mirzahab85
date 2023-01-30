@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mirzahab85
 - 👀 I’m interested in front-end and back-end development
-- 🌱 I’m currently learning PHP, Laravel, Angular
-- 💞️ I’m looking to collaborate on PHP
+- 🌱 I’m currently learning PHP, Angular
+- 💞️ I’m looking to collaborate on PHP, Angular, TypeScript, JavaScript
 - 📫 How to reach me ...
 
 <!---
